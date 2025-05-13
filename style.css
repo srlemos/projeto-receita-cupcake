@@ -1,6 +1,7 @@
 :root {
   font-family: "Alice", serif;
   line-height: 150%;
+  color: #573A37;
 }
 
 body {
@@ -33,6 +34,6 @@ h2 {
   color: #291B1A;
 }
 
-p, li {
-  color: #573A37;
+p {
+  font-size: 16px;
 }
